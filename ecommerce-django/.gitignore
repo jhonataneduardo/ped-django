@@ -9,3 +9,5 @@ celerybeat-schedule.*
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+db.sqlite3
